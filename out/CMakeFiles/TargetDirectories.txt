@@ -1,0 +1,3 @@
+/home/philip/Documents/cmake-template/out/CMakeFiles/rebuild_cache.dir
+/home/philip/Documents/cmake-template/out/CMakeFiles/hello-world.dir
+/home/philip/Documents/cmake-template/out/CMakeFiles/edit_cache.dir
